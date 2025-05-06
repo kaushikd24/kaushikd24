@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey, I'm Kaushik; 
+## I love to train deep neural networks and reinforcement learning algorithms which automate decisions and systems, I am interested in Quantitative Finance, Machine Learning and Artificial Intelligence ! I routinely break down and implement arXiv research papers too :) 
+
+## Feel free to check out my work !
 
 <!--
 **kaushikd24/kaushikd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

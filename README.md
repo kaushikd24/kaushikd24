@@ -5,12 +5,7 @@
   </small>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/eed65354-008b-4f9f-b58c-1b493a01df6e" 
-       width="500" 
-       style="border-radius: 15px;" 
-       alt="lofoten scenery"/>
-</p>
+
 
 
 
